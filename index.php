@@ -2,7 +2,7 @@
 <head><title>Random</title></head>
 <body>
 
-<p>I have randomly selected the number
+<p>A randomly selected number
 <?php 
 $choice=rand(1,100); echo $choice;
 ?>
