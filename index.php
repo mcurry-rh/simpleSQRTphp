@@ -4,7 +4,7 @@
 
 <p>A randomly selected number
 <?php 
-$choice=rand(1,100); echo $choice;
+$choice=rand(101,200); echo $choice;
 ?>
 .</p>
 <p>Its square root is 
